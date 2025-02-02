@@ -1,0 +1,3 @@
+http://www.fprintf.net/vimCheatSheet.html
+
+https://michaelgoerz.net/refcards/vimqrc.pdf

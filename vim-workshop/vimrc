@@ -1,0 +1,8 @@
+syntax on
+set number
+set expandtab
+set shiftwidth=4 softtabstop=4 tabstop=4
+
+map ] j.
+source ~/bin/a.vim
+source ~/bin/python.vim
